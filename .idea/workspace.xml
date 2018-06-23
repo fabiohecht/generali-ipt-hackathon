@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/ch.ipt.hackathon/producer/SensorType.java" line="8" mnemonic="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9cb71da1-9f1c-498a-b8b3-c512a1bdfade" name="Default" comment="temporarily allo">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose/docker-compose.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="606">
+              <caret line="229" column="14" selection-start-line="229" selection-start-column="14" selection-end-line="229" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Schemas.avsc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/avro/Schemas.avsc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="7" selection-start-line="19" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SensorType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch.ipt.hackathon/producer/SensorType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="22" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SensorProducer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch.ipt.hackathon/producer/SensorProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="174">
+              <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3052#3053#0" expanded="true" />
+                <element signature="e#3137#3138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GlobalConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ch.ipt.hackathon/producer/GlobalConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>debe</find>
+      <find>enum</find>
+      <find>acceleration</find>
+      <find>elast</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/docker-compose/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ch.ipt.hackathon/producer/GlobalConfiguration.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/avro/Schemas.avsc" />
+        <option value="$PROJECT_DIR$/src/main/java/ch.ipt.hackathon/producer/SensorType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ch.ipt.hackathon/producer/SensorProducer.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="generali-ipt-hackathon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="generali-ipt-hackathon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/ui/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/ui/bower_components/angular-animate/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/angular-bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/angular-chart.js/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/angular-chartist.js/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/angular-morris-chart/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/angular-progress-button-styles/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/angular-route/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/angular-smart-table/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/angular-touch/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/angular-ui-select/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/angular/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/animate.css/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/bootstrap-tagsinput/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/chart.js/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/eve-raphael/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/highlight/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/ionrangeslider/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/jquery-ui/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/jquery.easy-pie-chart/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/leaflet/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/morris.js/package.json" />
+      <path value="$PROJECT_DIR$/ui/bower_components/slimScroll/package.json" />
+      <path value="$PROJECT_DIR$/ui/docs/package.json" />
+      <path value="$PROJECT_DIR$/ui/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="991" />
+    <option name="height" value="1127" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="generali-ipt-hackathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generali-ipt-hackathon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generali-ipt-hackathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generali-ipt-hackathon" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generali-ipt-hackathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generali-ipt-hackathon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generali-ipt-hackathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generali-ipt-hackathon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generali-ipt-hackathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generali-ipt-hackathon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generali-ipt-hackathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generali-ipt-hackathon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="producer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generali-ipt-hackathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generali-ipt-hackathon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="generali-ipt-hackathon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="generali-ipt-hackathon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="avro" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/hackathon/producer" />
+      <recent name="$PROJECT_DIR$/src/main/java/hackathon" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/.travis.yml</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/CHANGELOG.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/LICENSE.txt</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/bower.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/config.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/articles/001-getting-started/index.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/articles/002-installation-guidelines/index.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/articles/011-changing-color-scheme/index.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/articles/011-changing-color-scheme/new-color-scheme.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/articles/012-project-structure/index.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/articles/013-create-new-page/index.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/articles/014-switch-to-blur-theme/index.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/articles/051-sidebar/index.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/articles/091-downloads/index.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/css/main.css</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/images/blur-admin-logo.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/images/blur-preview-mint.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/images/blur-preview.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/images/favicon.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/images/why-design.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/images/why-practices.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/images/why-structure.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/contents/index.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/plugins/paginator.coffee</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/templates/article.jade</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/templates/index.jade</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/docs/templates/layout.jade</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/gulp/build.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/gulp/conf.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/gulp/devRelease.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/gulp/docs.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/gulp/images.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/gulp/inject.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/gulp/marketplace.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/gulp/scripts.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/gulp/server.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/gulp/styles.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/gulp/watch.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/gulpfile.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/package-lock.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/package.json</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/preview.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/404.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/app.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/amCharts.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/areaChart/AreaChartCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/areaChart/areaChart.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/barChart/BarChartCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/barChart/barChart.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/charts.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/combinedChart/combinedChart.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/combinedChart/combinedChartCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/funnelChart/FunnelChartCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/funnelChart/funnelChart.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/ganttChart/ganttChart.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/ganttChart/ganttChartCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/lineChart/LineChartCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/lineChart/lineChart.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/pieChart/PieChartCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/amCharts/pieChart/pieChart.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/chartJs/chartJs.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/chartJs/chartJs.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/chartJs/chartJs1DCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/chartJs/chartJs2DCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/chartJs/chartJsWaveCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/chartist/chartist.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/chartist/chartist.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/chartist/chartistCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/charts.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/morris/morris.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/morris/morris.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/charts/morris/morrisCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/components.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/mail/MailTabCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/mail/composeBox/compose.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/mail/composeBox/composeBoxCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/mail/composeBox/composeModal.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/mail/detail/MailDetailCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/mail/detail/mailDetail.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/mail/list/MailListCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/mail/list/mailList.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/mail/mail.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/mail/mail.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/mail/mailMessages.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/timeline/TimelineCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/timeline/timeline.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/timeline/timeline.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/tree/tree.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/tree/tree.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/components/tree/treeCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/blurFeed/BlurFeedCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/blurFeed/blurFeed.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/blurFeed/blurFeed.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/calendar/dashboardCalendar.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboard.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboard.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardCalendar/DashboardCalendarCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardCalendar/dashboardCalendar.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardCalendar/dashboardCalendar.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardLineChart/DashboardLineChartCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardLineChart/dashboardLineChart.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardLineChart/dashboardLineChart.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardMap/DashboardMapCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardMap/dashboardMap.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardMap/dashboardMap.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardPieChart/DashboardPieChartCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardPieChart/dashboardPieChart.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardPieChart/dashboardPieChart.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardTodo/DashboardTodoCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardTodo/dashboardTodo.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/dashboardTodo/dashboardTodo.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/pieCharts/dashboardPieChart.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/popularApp/popularApp.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/popularApp/popularApp.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/trafficChart/TrafficChartCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/trafficChart/trafficChart.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/trafficChart/trafficChart.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/weather/WeatherCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/weather/weather.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/dashboard/weather/weather.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/form.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/inputs.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/checkboxesRadios.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/datePickers/datePickers.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/datePickers/datepickerCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/datePickers/datepickerpopupCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/inputGroups.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/oldSelect/OldSelectpickerPanelCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/oldSelect/select.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/oldSelect/selectpicker.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/oldSwitches/OldSwitchPanelCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/oldSwitches/switch.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/oldSwitches/switch.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/select/GroupSelectpickerOptions.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/select/SelectpickerPanelCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/select/select.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/standardFields.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/switches/SwitchDemoPanelCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/switches/switch.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/tagsInput/tagsInput.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/tagsInput/tagsInput.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/inputs/widgets/validationStates.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/layouts/layouts.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/layouts/widgets/basicForm.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/layouts/widgets/blockForm.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/layouts/widgets/formWithoutLabels.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/layouts/widgets/horizontalForm.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/layouts/widgets/inlineForm.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/wizard/wizard.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/form/wizard/wizrdCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/maps/google-maps/GmapPageCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/maps/google-maps/google-maps.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/maps/leaflet/LeafletPageCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/maps/leaflet/leaflet.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/maps/map-bubbles/MapBubblePageCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/maps/map-bubbles/map-bubbles.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/maps/map-lines/MapLinesPageCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/maps/map-lines/map-lines.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/maps/maps.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/maps/maps.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/myNewPage/my-new-page.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/myNewPage/myNewPage.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/pages.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/profile/ProfileModalCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/profile/ProfilePageCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/profile/profile.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/profile/profile.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/profile/profileModal.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/TablesPageCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/basic/tables.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/smart/tables.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/tables.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/widgets/basicTable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/widgets/borderedTable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/widgets/condensedTable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/widgets/contextualTable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/widgets/editableRowTable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/widgets/editableTable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/widgets/hoverRows.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/widgets/responsiveTable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/widgets/smartTable.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/tables/widgets/stripedRows.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/alerts/alerts.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/alerts/alerts.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/buttons/ButtonPageCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/buttons/buttons.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/buttons/buttons.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/buttons/widgets/buttonGroups.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/buttons/widgets/buttons.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/buttons/widgets/dropdowns.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/buttons/widgets/iconButtons.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/buttons/widgets/largeButtons.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/buttons/widgets/progressButtons.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/grid/baseGrid.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/grid/grid.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/grid/grid.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/icons/IconsPageCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/icons/icons.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/icons/icons.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/icons/widgets/fontAwesomeIcons.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/icons/widgets/ionicons.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/icons/widgets/kameleon.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/icons/widgets/kameleonRounded.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/icons/widgets/socicon.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/ModalsPageCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/modalTemplates/basicModal.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/modalTemplates/dangerModal.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/modalTemplates/infoModal.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/modalTemplates/largeModal.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/modalTemplates/smallModal.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/modalTemplates/successModal.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/modalTemplates/warningModal.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/modals.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/modals.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/notifications/NotificationsCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/notifications/notifications.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/progressModal/ProgressModalCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/modals/progressModal/progressModal.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/notifications/NotificationsPageCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/notifications/notifications.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/notifications/notifications.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/panels/panels.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/panels/panels.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/progressBars/progressBars.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/progressBars/progressBars.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/progressBars/widgets/animated.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/progressBars/widgets/basic.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/progressBars/widgets/label.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/progressBars/widgets/stacked.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/progressBars/widgets/striped.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/slider/slider.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/slider/slider.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/tabs/contextualAccordion.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/tabs/mainTabs.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/tabs/sampleAccordion.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/tabs/sideTabs.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/tabs/tabs.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/tabs/tabs.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/typography/typography.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/typography/typography.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/pages/ui/ui.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baPanel/baPanel.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baPanel/baPanel.service.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baPanel/baPanelBlur.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baPanel/baPanelBlurHelper.service.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baPanel/baPanelSelf.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baSidebar/BaSidebarCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baSidebar/ba-sidebar.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baSidebar/baSidebar.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baSidebar/baSidebar.service.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baSidebar/baSidebarHelpers.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baWizard/baWizard.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baWizard/baWizard.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baWizard/baWizardCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baWizard/baWizardStep.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/baWizard/baWizardStep.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/backTop/backTop.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/backTop/backTop.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/backTop/lib/jquery.backTop.min.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/components.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/contentTop/contentTop.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/contentTop/contentTop.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/msgCenter/MsgCenterCtrl.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/msgCenter/msgCenter.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/msgCenter/msgCenter.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/pageTop/pageTop.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/pageTop/pageTop.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/progressBarRound/progressBarRound.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/progressBarRound/progressBarRound.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/toastrLibConfig.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/widgets/widgets.directive.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/components/widgets/widgets.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/directives/animatedChange.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/directives/autoExpand.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/directives/autoFocus.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/directives/includeWithScope.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/directives/ionSlider.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/directives/ngFileSelect.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/directives/scrollPosition.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/directives/trackWidth.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/directives/zoomIn.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/filters/image/appImage.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/filters/image/kameleonImg.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/filters/image/profilePicture.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/filters/text/removeHtml.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/inputs/baSwitcher/baSwitcher.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/inputs/baSwitcher/baSwitcher.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/inputs/inputs.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/services/baProgressModal.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/services/baUtil.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/services/fileReader.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/services/preloader.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/services/stopableInterval.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/theme.config.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/theme.configProvider.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/theme.constants.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/theme.module.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/theme.run.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/app/theme/theme.service.js</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/fonts/socicon.eot</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/fonts/socicon.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/fonts/socicon.ttf</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/fonts/socicon.woff</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/fonts/socicon.woff2</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/browsers/chrome.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/browsers/firefox.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/browsers/ie.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/browsers/opera.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/browsers/safari.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/feed/genom.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/feed/my-little-kitten.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/feed/new-york-location.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/feed/vader-and-me-preview.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/my-app-logo.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/profile/Alexander.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/profile/Andrey.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/profile/Kostya.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/profile/Nasta.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/profile/Nick.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/profile/Vlad.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/skin-thumbnails/01_default.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/skin-thumbnails/02_transparent.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/skin-thumbnails/03_blue.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/skin-thumbnails/04_peachy.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/skin-thumbnails/05_material.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/skin-thumbnails/06_transblue.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/todo/check-icon.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/typography/banner.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/typography/typo01.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/typography/typo03.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/typography/typo04.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/typography/typo05.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/typography/typo06.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/app/typography/typo07.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/arrow-green-up.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/arrow-red-down.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Alien.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Analytics.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Apartment.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Application-Map.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Baby-Mobile.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Bag-Present.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Batman.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Battery-Charging.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Beach.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Bell.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Bonsai.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Boss-2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Boss-3.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Boss-5.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Burglar.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Bus.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Businesswoman-1.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Camera-Front.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Candles.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Candy.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Canoe.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Captain-Shield.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Car-Jumper.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Cashier-2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Cement-Mixer.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Chair-4.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Chat-2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Checklist.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Cheese.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Chef-2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Chessboard.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Clipboard-Plan.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Cloud-Music.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Cloudy.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Coding-Html.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Coffin.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Conveyor-Belt.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Database-Cloud.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Desert.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Dna.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Download-Computer.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Engagement-Ring.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Euro-Coin.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Eyeglass.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Farmer.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Food-Dome.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Furby.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Gold-Cart.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Graph-Magnifier.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Hacker.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Hat.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Heart-Watch.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Images-Cloud.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Images.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Key.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Laptop-Signal.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Locked-Cloud.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Love-Letter.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Magician.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Makeup.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Man-1.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Man-14.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Man-16.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Man-6.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Man-9-.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Medal-2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Microchip.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Microscope.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Mind-Map-Paper.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Money-Graph.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Money-Increase.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Music-Equalizer.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Ninja.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Nuclear-Mushroom.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Nurse-1.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Old-Car-2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Online-Shopping.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Open-Sign.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Pantone.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Paper-Plane.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Party-Poppers.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Phone-Booth.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Polaroid.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Prism-3.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Prisoner.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Programming.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Projector.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Radio-4.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Rapper-2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Rasta.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Record-Player.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Road-Worker-1.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Rocker.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Santa-Sled.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Santa.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Settings-2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Settings-5.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Shop.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Smartphone-Message.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Sneakers-2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Soldier-3.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Spongebob.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Street-View.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Student-3.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Surfer.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Surgeon.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/T-Shirt-2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Tablet-Chart.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Telemarketer-Woman-2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Television-Shelf.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Tower.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Vector.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Video-Camera-2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Waitress-1.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Wind-Wheel.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Woman-15.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Woman-9.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Wooden-Horse.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Xylophone.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/badges/Yin-Yang.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/blue-bg.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/blur-bg-blurred.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/blur-bg-mobile.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/blur-bg.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/chernika.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/comments.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/face.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/favicon-16x16.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/favicon-32x32.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/favicon-96x96.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/green-bg.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/money.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/peachy-bg.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/person.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/refresh.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/shopping-cart.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/feed/feed-image.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/feed/feed-location.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/feed/feed-video.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Alien.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Analytics.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Apartment.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Batman.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Beach.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Bell.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Bonsai.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Boss-3.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Boss-5.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Burglar.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Bus.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Candy.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Checklist.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Cheese.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Chessboard.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Clipboard-Plan.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Desert.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Dna.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Euro-Coin.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Food-Dome.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Hacker.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Images.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Key.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Laptop-Signal.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Locked-Cloud.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Love-Letter.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Magician.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Makeup.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Medal-2.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Microscope.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Mind-Map-Paper.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Money-Increase.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Music-Equalizer.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Ninja.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Online-Shopping.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Pantone.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Party-Poppers.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Phone-Booth.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Programming.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Santa.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Shop.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Street-View.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Student-3.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Surfer.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Surgeon.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Tower.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/icon/kameleon/Vector.svg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/no-photo.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/theme/palette.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/transblue-bg.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/users/ABO.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/users/CRU.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/users/MHE.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/users/MIN.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/users/MW8.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/img/users/RKO.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/pictures/pic-andrey.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/pictures/pic-kostia.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/pictures/pic-nasta.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/pictures/pic-profile.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/pictures/pic-vova.png</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/assets/pictures/tinder-logo.jpg</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/auth.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/index.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/reg.html</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/404.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/README.md</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_alerts.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_buttonsPage.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_chartsPage.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_dashboard.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_email.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_form.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_grid.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_iconsPage.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_modalNotifications.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_modals.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_notifications.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_profile.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_slider.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_table.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_tabsPage.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_tplSkinPanel.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_tree.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/_typography.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/maps/_google-maps.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/maps/_leaflet.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/maps/_map-bubbles.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/app/maps/_map-lines.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/auth.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/common.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/main.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/_blur-admin-theme.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/_buttons.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/_datePicker.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/_icons.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/_layout.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/_preloader.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/_socicon.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/_table.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/_tree.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/bootstrap-overrides/_panel.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/bootstrap-overrides/_tabs.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/components/_accordion.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/components/_baWizard.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/components/_backTop.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/components/_contentTop.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/components/_msgCenter.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/components/_pageTop.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/components/_progressRound.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/components/_sidebar.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/components/_widgets.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/conf/_mixins.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/conf/_variables.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/conf/colorScheme/_blur.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/conf/colorScheme/_mint.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/dashboard/_amChart.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/dashboard/_amChartMap.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/dashboard/_blurFeed.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/dashboard/_calendar.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/dashboard/_pieCharts.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/dashboard/_popularApp.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/dashboard/_timeline.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/dashboard/_todo.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/dashboard/_trafficChart.scss</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/ui/src/sass/theme/dashboard/_weather.scss</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="SensorProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch.ipt.hackathon.producer.SensorProducer" />
+      <module name="generali-ipt-hackathon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch.ipt.hackathon.producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SensorProducer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cb71da1-9f1c-498a-b8b3-c512a1bdfade" name="Default" comment="" />
+      <created>1529648820886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1529648820886</updated>
+      <workItem from="1529648822167" duration="13289000" />
+    </task>
+    <task id="LOCAL-00001" summary="docker compose">
+      <created>1529677793618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529677793618</updated>
+    </task>
+    <task id="LOCAL-00002" summary="images">
+      <created>1529679318138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529679318138</updated>
+    </task>
+    <task id="LOCAL-00003" summary="producer">
+      <created>1529741612890</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529741612890</updated>
+    </task>
+    <task id="LOCAL-00004" summary="idea files">
+      <created>1529741658990</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1529741658990</updated>
+    </task>
+    <task id="LOCAL-00005" summary="gaussian event distribution">
+      <created>1529742009462</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1529742009462</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13289000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1981" height="1127" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" />
+      <window_info anchor="bottom" id="Messages" weight="0.32920536" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.15142119" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40763673" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.54282767" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32920536" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16899225" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="right" id="Database" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docker compose" />
+    <MESSAGE value="images" />
+    <MESSAGE value="producer" />
+    <MESSAGE value="idea files" />
+    <MESSAGE value="gaussian event distribution" />
+    <option name="LAST_COMMIT_MESSAGE" value="gaussian event distribution" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docker-compose/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="229" column="14" selection-start-line="229" selection-start-column="14" selection-end-line="229" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch.ipt.hackathon/producer/GlobalConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/generated-sources/ch/ipt/hackathon/model/Sensor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/avro/Schemas.avsc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" selection-start-line="19" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch.ipt.hackathon/producer/SensorType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_161/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="1181" column="22" selection-start-line="1181" selection-start-column="22" selection-end-line="1181" selection-end-column="22" />
+          <folding>
+            <element signature="e#46227#46228#0" expanded="true" />
+            <element signature="e#46266#46267#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ch.ipt.hackathon/producer/SensorProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3052#3053#0" expanded="true" />
+            <element signature="e#3137#3138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
