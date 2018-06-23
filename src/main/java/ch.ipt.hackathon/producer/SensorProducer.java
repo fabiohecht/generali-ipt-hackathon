@@ -21,7 +21,7 @@ public class SensorProducer {
     //these settings control the probabilities that an event is produced
     //you don't need to change them, unless you want to
     static private Random random = new Random();
-    public static final double EVENTS_PER_SECOND = 100.0;
+    public static final double EVENTS_PER_SECOND = 10000.0;
 
     //the kafka producer!
     static private Producer producer;
@@ -41,7 +41,7 @@ public class SensorProducer {
     private static void produce() {
         int limit = Integer.MAX_VALUE;
         while (running && limit-- > 0) {
-            rateLimiter.acquire();
+            rateLimiter.acquire((int)  Math.abs(randomGaussian(100,20)));
 
             Sensor sensor = getRandomSensor();
 
