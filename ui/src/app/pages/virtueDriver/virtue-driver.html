@@ -4,17 +4,17 @@
         <div class="col-lg-8">
             <div class="row">
                 <div class="col-lg-12 main-dashboard-panel">
-                    <div class="panel panel-info">
+                    <div class="panel panel-danger">
                         <div class="panel-heading">Main Dashboard</div>
                         <div class="panel-body">
-                            nice graphs
+                            <div id="zoomAxisChart" class="admin-chart" ng-controller="combinedChartCtrl"></div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-12 badges-panel">
-                    <div class="panel panel-info">
+                    <div class="panel panel-danger">
                         <div class="panel-heading">Badges</div>
                         <div class="panel-body">
                             <div class="row">
@@ -36,29 +36,39 @@
         </div>
 
         <div class="col-lg-4 leader-scores-panel">
-            <div class="panel panel-info">
+            <div class="panel panel-danger">
                 <div class="panel-heading">Leaders Board</div>
                 <div class="panel-body">
                     <ol class="list-group">
                         <li class="list-group-item">
                             <img class="img-fluid " style="max-width: 25%" src="../../../assets/img/users/ABO.png"/>
-                            John
+                            Amancio
                             <span class="badge badge-primary badge-pill">23023</span>
                         </li>
                         <li class="list-group-item">
                             <img class="img-fluid " style="max-width: 25%" src="../../../assets/img/users/CRU.png"/>
-                            Emily
+                            Cyril
                             <span class="badge badge-primary badge-pill">22987</span>
                         </li>
                         <li class="list-group-item">
                             <img class="img-fluid " style="max-width: 25%" src="../../../assets/img/users/MHE.png"/>
-                            Edward
+                            Matthias
                             <span class="badge badge-primary badge-pill">21586</span>
                         </li>
                         <li class="list-group-item">
                             <img class="img-fluid " style="max-width: 25%" src="../../../assets/img/users/MIN.png"/>
-                            Suzie
+                            Markus
                             <span class="badge badge-primary badge-pill">21241</span>
+                        </li>
+                        <li class="list-group-item">
+                            <img class="img-fluid " style="max-width: 25%" src="../../../assets/img/users/MW8.png"/>
+                            Michael
+                            <span class="badge badge-primary badge-pill">20854</span>
+                        </li>
+                        <li class="list-group-item">
+                            <img class="img-fluid " style="max-width: 25%" src="../../../assets/img/users/RKO.png"/>
+                            Reto
+                            <span class="badge badge-primary badge-pill">19831</span>
                         </li>
                     </ol>
                 </div>
