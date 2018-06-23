@@ -215,7 +215,7 @@ services:
 # External systems
   mongo:
       image: mongo:latest
-      hostname: "mongodb"
+      hostname: "mongo"
       environment:
 #        - MONGO_DATA_DIR=/data/db
 #        - MONGO_LOG_DIR=/dev/null
@@ -237,3 +237,12 @@ services:
       - DB_HOST=mongo
     links:
       - mongo
+
+  web:
+      image: aleksxp/docker-eve-python
+      ports:
+          - "5000:5000"
+      volumes:
+          - .:/usr/src/app
+      depends_on:
+          - mongo

@@ -1,0 +1,38 @@
+[
+  {
+    "namespace": "ch.ipt.hackathon.model",
+    "name": "Sensor",
+    "type": "record",
+    "doc": "A sensor reading.",
+    "fields": [
+      {
+        "name": "timestamp",
+        "type": "long"
+      },
+      {
+        "name": "customerId",
+        "type": "int"
+      },
+      {
+        "name": "carId",
+        "type": "string"
+      },
+      {
+        "name": "sensorType",
+        "type": "string",
+        "enum": [
+          "acceleration",
+          "vibration",
+          "air_temperature",
+          "road_temperature",
+          "speed",
+          "cabin_noise"
+        ]
+      },
+      {
+        "name": "sensorReading",
+        "type": "string"
+      }
+    ]
+  }
+]
